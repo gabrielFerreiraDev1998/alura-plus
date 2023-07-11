@@ -26,7 +26,7 @@ body {
 }
 
 .conteudo {
-    background-image: url("/assets/Background.svg");
+    background-image: url("assets/Background.svg");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
